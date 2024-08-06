@@ -1,0 +1,40 @@
+.App{}
+
+.table-title{
+ font-size: xx-large;
+ font-weight: bold;
+ display: flex;
+ padding-left: 30px;
+ color: #002D62;
+}
+
+.menu {
+  display: flex;
+  height: 30px;
+  padding-top: 60px;
+  font-weight: bold;
+  color: black;
+}
+
+
+.style-div {
+  margin-left: 2rem; 
+  margin-right: 2rem; 
+  width: '1300px'; 
+  height: '120px'; 
+  padding: 1rem; 
+}
+
+.table-container {
+  margin-top:'120px';
+  background-color:'red';
+  border: 2px solid gray; 
+  border-radius: 2rem;
+}
+
+.table {
+  margin:'40px';
+  width:'90px';
+  background-color:#B9D9EB;
+}
+
